@@ -1,5 +1,7 @@
 # SpaceX Launch Explorer
 
+**Live:** [spacex-launch-explorer.vercel.app](https://spacex-launch-explorer.vercel.app)
+
 A React-based web application to explore SpaceX launches with advanced features like sorting, filtering, searching, and pagination. Built with React, Vite, TypeScript, Mantine UI, Zustand for state management, and powered by the SpaceX API.
 
 ![SpaceX Launch Explorer Screenshot](https://res.cloudinary.com/dnqvg9dhl/image/upload/v1727381662/Untitled_ysr63j.png)
