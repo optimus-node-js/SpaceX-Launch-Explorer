@@ -1,10 +1,10 @@
-# 🚀 SpaceX Launch Explorer
+# SpaceX Launch Explorer
 
 A React-based web application to explore SpaceX launches with advanced features like sorting, filtering, searching, and pagination. Built with React, Vite, TypeScript, Mantine UI, Zustand for state management, and powered by the SpaceX API.
 
 ![SpaceX Launch Explorer Screenshot](https://res.cloudinary.com/dnqvg9dhl/image/upload/v1727381662/Untitled_ysr63j.png)
 
-## 🛠 Features
+## Features
 
 - **Launch Listings**: View a list of SpaceX launches with search, filter, and sort capabilities.
 - **Launch Details**: Detailed view of individual launches, including information about the rocket, success status, and links to resources like webcast, articles, and Wikipedia.
@@ -15,7 +15,7 @@ A React-based web application to explore SpaceX launches with advanced features 
 - **Responsive Design**: Fully responsive UI for all screen sizes.
 - **State Management**: Zustand for managing global state in a scalable and performant way.
 
-## 🎨 Tech Stack
+## Tech Stack
 
 - **Frontend**: React, TypeScript, Vite
 - **UI Components**: Mantine UI, Axios, React-Query
@@ -23,7 +23,7 @@ A React-based web application to explore SpaceX launches with advanced features 
 - **API**: SpaceX API v4
 - **Backend** (To be implemented): MongoDB for session management, token-based authentication
 
-## 📂 Directory Structure
+## Directory Structure
 
 ```
 .
@@ -68,7 +68,7 @@ A React-based web application to explore SpaceX launches with advanced features 
 
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -126,25 +126,25 @@ Lint the code for consistent formatting:
 npm run lint
 ```
 
-## 🧑‍💻 API Integration
+## API Integration
 
 We use the SpaceX API to fetch launch data. Here are the key API routes used in the project:
 
-- `GET /launches` – Fetches all launches.
-- `GET /launches/:id` – Fetches details of a specific launch.
+- `GET /launches` - Fetches all launches.
+- `GET /launches/:id` - Fetches details of a specific launch.
 
-## 🛠 Authentication
+## Authentication
 
 - Token-based authentication has been implemented for securing private routes.
 - User session data is stored securely in MongoDB.
 
-## 🎯 Bonus Features
+## Bonus Features
 
 - **Gallery Images**: View images related to rockets on the SpaceX detail page.
 - **Fairing and Core Details**: View fairing and core information for each launch.
 - **Back Navigation**: Easily navigate back to the resource list using the back button on the detail page.
 
-## 🧪 Testing (Planned)
+## Testing (Planned)
 
 We plan to integrate testing using:
 - Jest for unit testing.
@@ -152,13 +152,13 @@ We plan to integrate testing using:
 
 ---
 
-### 🌟 Contributions
+### Contributions
 
 We welcome contributions! Please fork the repository and create a pull request if you’d like to contribute.
 
 ---
 
-### 📬 Contact
+### Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
@@ -167,13 +167,12 @@ If you have any questions or suggestions, feel free to reach out:
 
 ---
 
-## 👤 Author
+## Author
 
-**Rahul Vishwakarma** — Senior Full Stack Developer · Ahmedabad, India
+**Rahul Vishwakarma**, Senior Full Stack Developer based in Ahmedabad, India
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahul--vishwakarma--portfolio.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://rahul-vishwakarma-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Vishwakarma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-vishwakarma-101346192)
 [![Email](https://img.shields.io/badge/Email-karmarahul67%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karmarahul67@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-optimus--node--js-181717?style=flat-square&logo=github)](https://github.com/optimus-node-js)
 
-If you find this project useful, consider giving it a ⭐.
