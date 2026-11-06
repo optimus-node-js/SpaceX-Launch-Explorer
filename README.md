@@ -82,7 +82,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/spacex-launch-explorer.git
+git clone https://github.com/optimus-node-js/SpaceX-Launch-Explorer.git
 cd spacex-launch-explorer
 ```
 
@@ -162,5 +162,18 @@ We welcome contributions! Please fork the repository and create a pull request i
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Rahul Vishwakarma](https://github.com/Rahul-gif-asus)
+- **GitHub**: [Rahul Vishwakarma](https://github.com/optimus-node-js)
 - **Email**: karmarahul67@gmail.com
+
+---
+
+## 👤 Author
+
+**Rahul Vishwakarma** — Senior Full Stack Developer · Ahmedabad, India
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahul--vishwakarma--portfolio.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://rahul-vishwakarma-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Vishwakarma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-vishwakarma-101346192)
+[![Email](https://img.shields.io/badge/Email-karmarahul67%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karmarahul67@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-optimus--node--js-181717?style=flat-square&logo=github)](https://github.com/optimus-node-js)
+
+If you find this project useful, consider giving it a ⭐.
